@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o William Wallace
+# 👋 Olá! eu sou o William Wallace
 
 💻 **Apaixonado por tecnologia** e movido pela curiosidade em criar soluções inteligentes.  
 🐍 Experiência em **Python** | ☕ **Java**  
